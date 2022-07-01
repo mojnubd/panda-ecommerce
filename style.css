@@ -1,0 +1,79 @@
+.orange-bg{
+    background-color: #fceae8;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+   
+}
+
+.price{
+    color: #ff136f;
+
+}
+
+.cart1{
+    background-color: orange;
+    
+   
+}
+
+.cart2{
+    background-color: rgb(255, 0, 179);
+   
+
+   
+}
+
+.cart3{
+    background-color: rgb(0, 204, 255);
+    
+   
+}
+
+.cart1, .cart2, .cart3{
+
+    border-radius: 20px;
+    padding: 10px 30px;
+   
+}
+
+#categories{
+    margin-top: 50px;
+}
+.categories h1{
+    color: white;
+
+}
+
+#shoes{
+    margin-top: 50px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(228, 220, 220);
+    padding: 10px 30px;
+    margin: 10px;
+    border-radius: 15px;
+}
+#backpack{
+    margin-top: 50px;
+}
+
+#subscribe{
+    height: 300px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+   
+}
+
+.background{
+    background-color: #f7f1ef;
+}
+footer{
+    text-align: center;
+}
